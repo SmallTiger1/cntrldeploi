@@ -1,0 +1,71 @@
+# =====================
+# System files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Logs
+# =====================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =====================
+# Dependencies
+# =====================
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+
+# =====================
+# Environment variables
+# =====================
+.env
+.env.local
+.env.*.local
+
+# =====================
+# Build / dist
+# =====================
+dist/
+build/
+out/
+target/
+
+# =====================
+# IDE / Editor
+# =====================
+.vscode/
+.idea/
+*.swp
+
+# =====================
+# Database
+# =====================
+*.sqlite
+*.db
+
+# =====================
+# Uploads / storage
+# =====================
+uploads/
+storage/
+
+# =====================
+# OS
+# =====================
+.DS_Store
+ehthumbs.db
+
+# =====================
+# Misc
+# =====================
+coverage/
+*.seed
+*.pid
+*.seed
+*.tgz
